@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left">
- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&psig=AOvVaw0426uKJ1Cm6l3XADh74L1A&ust=1720259881863000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOi0u8_Sj4cDFQAAAAAdAAAAABAQ" alt="lulu-bayan-ishak" /> </p>
+ <img src="https://media.tenor.com/QVC1Nmb9TwUAAAAj/coding.gif" alt="lulu-bayan-ishak" /> </p>
 
 - 🔭 I’m currently working on **DDOS ATTACK**
 
